@@ -19,8 +19,8 @@ cinstm stylecop
 
 # databases and tools
 cinstm MsSqlServer2012Express
-cinstm toad.mysql
 cinstm mysql
+cinstm toad.mysql
 
 # browsers
 cinstm GoogleChrome
@@ -53,7 +53,7 @@ cinstm gitextensions
 cinstm rdcman # Remote Desktop Connection Manager 
 cinstm dotPeek
 cinstm winmerge
-cinstm winrar -Version 4.20.0
+cinstm winrar 
 cinstm nodejs.install
 cinstm fiddler
 cinstm curl
