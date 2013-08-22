@@ -14,7 +14,7 @@ cinstm VisualStudio2012Professional
 # Visual studio add-ins
 cinstm xUnit.vs2012
 cinstm WebEssentials2012
-cinstm resharper
+cinstm resharper -Version 7.1.3000.2254 # Use only resharper if you want the latests. This is what I have a license for
 cinstm stylecop
 
 # databases and tools
